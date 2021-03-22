@@ -4,20 +4,20 @@ expanded_form_main.rb is a ruby file that reuqests a user to input an integer an
 expanded form to the user.
 test_expanded_form.rb is a unit test class, which runs mutliple test cases through the 'expanded_form' method.
 
-##Functions
+## Functions
 The user can pass any integer to the method and receive the expanded form. 
 
 It also accounts for zeros in the final string. For example: 1080 = 1000 + 80, and not 1080 = 1000 + 000 + 80 + 0.
 
-##Use
+## Use
 The program is useful to anyone who wants to quickly determine the expanded form of any integer greater than 0.
 
-##Contributors
+## Contributors
 Contributors include Nadia Botha.
 
 Please send an email to nadiamarais@live.co.za regarding any issues. Include a brief description and screenshot of the issue in the email, with Expanded Form as the email subject.
 
-##Installing and running the program
+## Installing and running the program
 
 A - Ruby
 Download Ruby version 2.4 or higher form [here](https://rubyinstaller.org/downloads/).
